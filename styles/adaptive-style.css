@@ -851,13 +851,13 @@
 @media screen and (max-width: 380px) {
 
     .trust-item-head {
-        top: 12px;
-        left: 11px;
+        top: 8px;
+        left: 10px;
     }
 
     .trust-item-description {
-        bottom: 12px;
-        left: 14px;
+        bottom: 8px;
+        left: 10px;
     }
 
 }
@@ -999,8 +999,8 @@
 @media screen and (max-width: 365px) {
 
 .etc .trust-item-description {
-    top: 12px;
-    left: 11px;
+    top: 8px;
+    left: 10px;
     line-height: unset;
 }
 
