@@ -63,9 +63,17 @@ export const langArr = {
         ru: "США/USA",
         en: "USA"
     },
+    headForEurope: {
+        ru: "Европа",
+        en: "Europe"
+    },
     ITCompany: {
         ru: "стажировалась в IT-компании на большом и сложном Angular-проекте для американского рынка",
         en: "interned at an IT company on a large and complex Angular project for the American market"
+    },
+    workingAtITCompany: {
+        ru: "работаю в крупной IT-компании на Angular-проекте для зарубежного рынка",
+        en: "I work in a large IT company on an Angular project for the foreign market"
     },
     inTouch: {
         ru: "на связи",

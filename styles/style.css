@@ -202,7 +202,7 @@
 
 .main-experiences {
     display: grid;
-    grid-template-columns: 133px 175px 322px 100px;
+    grid-template-columns: 240px 175px 322px 100px;
     justify-content: space-between;
 }
 
