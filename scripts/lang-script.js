@@ -72,8 +72,8 @@ export const langArr = {
         en: "interned at an IT company on a large and complex Angular project for the American market"
     },
     workingAtITCompany: {
-        ru: "работаю в крупной IT-компании на Angular-проекте для зарубежного рынка",
-        en: "I work in a large IT company on an Angular project for the foreign market"
+        ru: "работаю в крупной IT-компании как Software Engineer на Angular-проекте для зарубежного рынка",
+        en: "I work in a large IT company as a Software Engineer on an Angular project for the foreign market"
     },
     inTouch: {
         ru: "на связи",
